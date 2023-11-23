@@ -1,0 +1,5 @@
+  File "/home/beaver/ros2_ex_turtlesim/install/turtle_custom_controller/lib/python3.10/site-packages/turtle_custom_controller/turtle_controller.py", line 21
+    else if key.char == 's':
+         ^^
+SyntaxError: expected ':'
+

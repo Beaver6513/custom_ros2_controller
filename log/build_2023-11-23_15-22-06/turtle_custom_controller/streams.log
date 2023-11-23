@@ -1,0 +1,24 @@
+[0.589s] Invoking command in '/home/beaver/ros2_ex_turtlesim/src/turtle_custom_controller': PYTHONPATH=/home/beaver/ros2_ex_turtlesim/build/turtle_custom_controller/prefix_override:/home/beaver/ros2_ex_turtlesim/install/turtle_custom_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtle_custom_controller build --build-base /home/beaver/ros2_ex_turtlesim/build/turtle_custom_controller/build install --record /home/beaver/ros2_ex_turtlesim/build/turtle_custom_controller/install.log --single-version-externally-managed
+[0.782s] running egg_info
+[0.782s] writing ../../build/turtle_custom_controller/turtle_custom_controller.egg-info/PKG-INFO
+[0.782s] writing dependency_links to ../../build/turtle_custom_controller/turtle_custom_controller.egg-info/dependency_links.txt
+[0.782s] writing entry points to ../../build/turtle_custom_controller/turtle_custom_controller.egg-info/entry_points.txt
+[0.782s] writing requirements to ../../build/turtle_custom_controller/turtle_custom_controller.egg-info/requires.txt
+[0.782s] writing top-level names to ../../build/turtle_custom_controller/turtle_custom_controller.egg-info/top_level.txt
+[0.784s] reading manifest file '../../build/turtle_custom_controller/turtle_custom_controller.egg-info/SOURCES.txt'
+[0.785s] writing manifest file '../../build/turtle_custom_controller/turtle_custom_controller.egg-info/SOURCES.txt'
+[0.785s] running build
+[0.785s] running build_py
+[0.785s] copying turtle_custom_controller/turtle_controller.py -> /home/beaver/ros2_ex_turtlesim/build/turtle_custom_controller/build/lib/turtle_custom_controller
+[0.785s] running install
+[0.785s] running install_lib
+[0.786s] copying /home/beaver/ros2_ex_turtlesim/build/turtle_custom_controller/build/lib/turtle_custom_controller/turtle_controller.py -> /home/beaver/ros2_ex_turtlesim/install/turtle_custom_controller/lib/python3.10/site-packages/turtle_custom_controller
+[0.786s] byte-compiling /home/beaver/ros2_ex_turtlesim/install/turtle_custom_controller/lib/python3.10/site-packages/turtle_custom_controller/turtle_controller.py to turtle_controller.cpython-310.pyc
+[0.786s] running install_data
+[0.787s] running install_egg_info
+[0.788s] removing '/home/beaver/ros2_ex_turtlesim/install/turtle_custom_controller/lib/python3.10/site-packages/turtle_custom_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[0.788s] Copying ../../build/turtle_custom_controller/turtle_custom_controller.egg-info to /home/beaver/ros2_ex_turtlesim/install/turtle_custom_controller/lib/python3.10/site-packages/turtle_custom_controller-0.0.0-py3.10.egg-info
+[0.789s] running install_scripts
+[0.804s] Installing turtlesimcustomcontroller script to /home/beaver/ros2_ex_turtlesim/install/turtle_custom_controller/lib/turtle_custom_controller
+[0.804s] writing list of installed files to '/home/beaver/ros2_ex_turtlesim/build/turtle_custom_controller/install.log'
+[0.825s] Invoked command in '/home/beaver/ros2_ex_turtlesim/src/turtle_custom_controller' returned '0': PYTHONPATH=/home/beaver/ros2_ex_turtlesim/build/turtle_custom_controller/prefix_override:/home/beaver/ros2_ex_turtlesim/install/turtle_custom_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtle_custom_controller build --build-base /home/beaver/ros2_ex_turtlesim/build/turtle_custom_controller/build install --record /home/beaver/ros2_ex_turtlesim/build/turtle_custom_controller/install.log --single-version-externally-managed
